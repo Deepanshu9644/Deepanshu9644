@@ -1,11 +1,9 @@
 ## Hi there 👋
 
-I'm Deepanshu Kumar, a passionate and goal-driven Full Stack Java Developer from India.
+My name is Deepanshu Kumar and I'm a Passionate Backend Developer from India
+##About me
+I'm a highly motivated Software Developer with a strong background in java and a deep understanding of Data Structures and Algorithms. My passion for problem-solving drives me to continually refine my skills, having solved hundreds of challenging problems across multiple platforms and actively participating in coding contests.
 
-I bring a strong foundation in Java, C, and core web technologies, complemented by hands-on experience with Spring Boot, Hibernate, MySQL, and modern tools like Firebase, VAPI, and the Gemini API. With a deep understanding of Object-Oriented Programming, RESTful API development, and secure authentication, I thrive in building scalable backend systems and integrating smart AI-driven solutions.
+💻 Currently, I am mastering Backend Development, working with technologies like Spring Boot, Hibernate, Java, MySQL, Firebase, and REST APIs — along with AI tools like the Gemini API and Chrome Extensions — to build intelligent, scalable, and user-centric web applications.
 
-🚀 My projects like InterviewGenie (an AI-powered mock interview platform) and MailMinds (a smart email reply Chrome extension) demonstrate my ability to combine backend architecture with cutting-edge APIs to solve real-world problems.
-📈 With over 400+ LeetCode problems solved and a 5⭐ Java badge on HackerRank, I continuously sharpen my DSA and system design skills to stay ahead.
-🎯 I actively participate in hackathons like Smart India Hackathon and GFG Hackathon, where I collaborate with teams to bring ideas to life under pressure.
-
-I'm always open to collaborating on innovative software products and contributing to impactful tech communities.
+🎯 I am driven by a relentless pursuit of excellence and always eager to take on complex software development challenges, where I can leverage my expertise to create innovative solutions and make a meaningful impact.
