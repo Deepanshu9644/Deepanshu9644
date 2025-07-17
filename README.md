@@ -10,7 +10,9 @@ I'm a highly motivated Software Developer with a strong background in java and a
 
 🎯 I am driven by a relentless pursuit of excellence and always eager to take on complex software development challenges, where I can leverage my expertise to create innovative solutions and make a meaningful impact.
 
+
 ### 🐍 GitHub Contribution Snake
 
-![snake gif](https://github.com/Deepanshu9644/Deepanshu9644/blob/output/ocean.gif?raw=true)
+![Snake animation](https://raw.githubusercontent.com/Deepanshu9644/Deepanshu9644/output/github-contribution-grid-snake.svg)
+
 
