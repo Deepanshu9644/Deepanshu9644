@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Deepanshu Kumar and I'm a Passionate Backend Developer from India
+My name is Deepanshu Kumar and I'm a Passionate Full Stack Developer from India
 
 ## About me
 
